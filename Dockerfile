@@ -1,4 +1,4 @@
-FROM ubuntu:17.04
+FROM arm32v7/ubuntu:17.04
 
 LABEL author="Vincent BESANCON <besancon.vincent@gmail.com>"
 LABEL description="Serve media through an UPNP AV server using minidlna."
